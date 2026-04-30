@@ -1,0 +1,73 @@
+id,producto,marca,categoria,peso_kg,mes,asesor,zona,unidades_vendidas,precio_unitario_cop,ingresos_cop,devoluciones,costo_cop,ganancia_cop
+1,Leche Entera 1L,NutriVida,Lacteos,1.03,Enero,Carlos M.,Norte,320,4200,1344000,12,980000,364000
+2,Leche Entera 1L,NutriVida,Lacteos,1.03,Febrero,Carlos M.,Norte,410,4200,1722000,8,1256000,466000
+3,Leche Entera 1L,NutriVida,Lacteos,1.03,Marzo,Carlos M.,Norte,390,4200,1638000,15,1170000,468000
+4,Leche Descremada 1L,NutriVida,Lacteos,1.02,Enero,Carlos M.,Norte,280,4500,1260000,6,840000,420000
+5,Leche Descremada 1L,NutriVida,Lacteos,1.02,Febrero,Carlos M.,Norte,310,4500,1395000,9,930000,465000
+6,Leche Descremada 1L,NutriVida,Lacteos,1.02,Marzo,Carlos M.,Norte,295,4500,1327500,11,885000,442500
+7,Aceite Girasol 1L,NutriVida,Aceites,0.92,Enero,Laura P.,Sur,210,8900,1869000,6,1260000,609000
+8,Aceite Girasol 1L,NutriVida,Aceites,0.92,Febrero,Laura P.,Sur,280,8900,2492000,9,1680000,812000
+9,Aceite Girasol 1L,NutriVida,Aceites,0.92,Marzo,Laura P.,Sur,260,8900,2314000,11,1560000,754000
+10,Aceite Canola 1L,NutriVida,Aceites,0.92,Enero,Laura P.,Sur,185,9200,1702000,4,1110000,592000
+11,Aceite Canola 1L,NutriVida,Aceites,0.92,Febrero,Laura P.,Sur,220,9200,2024000,7,1320000,704000
+12,Aceite Canola 1L,NutriVida,Aceites,0.92,Marzo,Laura P.,Sur,198,9200,1821600,5,1188000,633600
+13,Arroz Diana 1kg,FrescoCampo,Granos,1.00,Enero,Andrés R.,Oriente,540,2800,1512000,20,810000,702000
+14,Arroz Diana 1kg,FrescoCampo,Granos,1.00,Febrero,Andrés R.,Oriente,610,2800,1708000,15,915000,793000
+15,Arroz Diana 1kg,FrescoCampo,Granos,1.00,Marzo,Andrés R.,Oriente,580,2800,1624000,22,870000,754000
+16,Frijol Rojo 500g,FrescoCampo,Granos,0.50,Enero,Andrés R.,Oriente,420,3500,1470000,14,840000,630000
+17,Frijol Rojo 500g,FrescoCampo,Granos,0.50,Febrero,Andrés R.,Oriente,480,3500,1680000,11,960000,720000
+18,Frijol Rojo 500g,FrescoCampo,Granos,0.50,Marzo,Andrés R.,Oriente,455,3500,1592500,18,910000,682500
+19,Atún en Lata 170g,FrescoCampo,Enlatados,0.17,Enero,Diana V.,Occidente,180,5600,1008000,7,720000,288000
+20,Atún en Lata 170g,FrescoCampo,Enlatados,0.17,Febrero,Diana V.,Occidente,220,5600,1232000,10,880000,352000
+21,Atún en Lata 170g,FrescoCampo,Enlatados,0.17,Marzo,Diana V.,Occidente,200,5600,1120000,8,800000,320000
+22,Sardinas 125g,FrescoCampo,Enlatados,0.12,Enero,Diana V.,Occidente,160,4800,768000,6,640000,128000
+23,Sardinas 125g,FrescoCampo,Enlatados,0.12,Febrero,Diana V.,Occidente,195,4800,936000,8,780000,156000
+24,Sardinas 125g,FrescoCampo,Enlatados,0.12,Marzo,Diana V.,Occidente,178,4800,854400,7,712000,142400
+25,Harina de Trigo 1kg,PanAndino,Harinas,1.00,Enero,Miguel S.,Norte,430,3200,1376000,16,860000,516000
+26,Harina de Trigo 1kg,PanAndino,Harinas,1.00,Febrero,Miguel S.,Norte,470,3200,1504000,12,940000,564000
+27,Harina de Trigo 1kg,PanAndino,Harinas,1.00,Marzo,Miguel S.,Norte,460,3200,1472000,18,920000,552000
+28,Harina de Maíz 1kg,PanAndino,Harinas,1.00,Enero,Miguel S.,Norte,380,3500,1330000,13,760000,570000
+29,Harina de Maíz 1kg,PanAndino,Harinas,1.00,Febrero,Miguel S.,Norte,420,3500,1470000,10,840000,630000
+30,Harina de Maíz 1kg,PanAndino,Harinas,1.00,Marzo,Miguel S.,Norte,405,3500,1417500,15,810000,607500
+31,Leche Entera 1L,PanAndino,Lacteos,1.03,Enero,Sofia L.,Sur,370,4300,1591000,14,1110000,481000
+32,Leche Entera 1L,PanAndino,Lacteos,1.03,Febrero,Sofia L.,Sur,390,4300,1677000,10,1170000,507000
+33,Leche Entera 1L,PanAndino,Lacteos,1.03,Marzo,Sofia L.,Sur,410,4300,1763000,12,1230000,533000
+34,Leche Deslactosada 1L,PanAndino,Lacteos,1.02,Enero,Sofia L.,Sur,290,5200,1508000,8,870000,638000
+35,Leche Deslactosada 1L,PanAndino,Lacteos,1.02,Febrero,Sofia L.,Sur,320,5200,1664000,11,960000,704000
+36,Leche Deslactosada 1L,PanAndino,Lacteos,1.02,Marzo,Sofia L.,Sur,305,5200,1586000,9,915000,671000
+37,Jabón en Polvo 1kg,CasaFeliz,Aseo,1.00,Enero,Ricardo B.,Oriente,620,6800,4216000,25,2480000,1736000
+38,Jabón en Polvo 1kg,CasaFeliz,Aseo,1.00,Febrero,Ricardo B.,Oriente,680,6800,4624000,20,2720000,1904000
+39,Jabón en Polvo 1kg,CasaFeliz,Aseo,1.00,Marzo,Ricardo B.,Oriente,650,6800,4420000,28,2600000,1820000
+40,Suavizante 500ml,CasaFeliz,Aseo,0.52,Enero,Ricardo B.,Oriente,340,5400,1836000,12,1020000,816000
+41,Suavizante 500ml,CasaFeliz,Aseo,0.52,Febrero,Ricardo B.,Oriente,390,5400,2106000,15,1170000,936000
+42,Suavizante 500ml,CasaFeliz,Aseo,0.52,Marzo,Ricardo B.,Oriente,365,5400,1971000,18,1095000,876000
+43,Shampoo 400ml,CasaFeliz,Cuidado Personal,0.42,Enero,Valentina C.,Occidente,290,12500,3625000,10,1450000,2175000
+44,Shampoo 400ml,CasaFeliz,Cuidado Personal,0.42,Febrero,Valentina C.,Occidente,310,12500,3875000,8,1550000,2325000
+45,Shampoo 400ml,CasaFeliz,Cuidado Personal,0.42,Marzo,Valentina C.,Occidente,330,12500,4125000,12,1650000,2475000
+46,Crema Corporal 300ml,CasaFeliz,Cuidado Personal,0.32,Enero,Valentina C.,Occidente,180,15800,2844000,6,900000,1944000
+47,Crema Corporal 300ml,CasaFeliz,Cuidado Personal,0.32,Febrero,Valentina C.,Occidente,210,15800,3318000,9,1050000,2268000
+48,Crema Corporal 300ml,CasaFeliz,Cuidado Personal,0.32,Marzo,Valentina C.,Occidente,195,15800,3081000,7,975000,2106000
+49,Arroz Supremo 1kg,NutriVida,Granos,1.00,Enero,Carlos M.,Norte,490,3100,1519000,18,980000,539000
+50,Arroz Supremo 1kg,NutriVida,Granos,1.00,Febrero,Carlos M.,Norte,530,3100,1643000,14,1060000,583000
+51,Arroz Supremo 1kg,NutriVida,Granos,1.00,Marzo,Carlos M.,Norte,510,3100,1581000,20,1020000,561000
+52,Leche UHT 1L,FrescoCampo,Lacteos,1.03,Enero,Laura P.,Sur,280,4100,1148000,10,840000,308000
+53,Leche UHT 1L,FrescoCampo,Lacteos,1.03,Febrero,Laura P.,Sur,310,4100,1271000,8,930000,341000
+54,Leche UHT 1L,FrescoCampo,Lacteos,1.03,Marzo,Laura P.,Sur,295,4100,1209500,12,885000,324500
+55,Aceite Palma 1L,PanAndino,Aceites,0.92,Enero,Andrés R.,Oriente,195,7800,1521000,7,780000,741000
+56,Aceite Palma 1L,PanAndino,Aceites,0.92,Febrero,Andrés R.,Oriente,230,7800,1794000,10,920000,874000
+57,Aceite Palma 1L,PanAndino,Aceites,0.92,Marzo,Andrés R.,Oriente,215,7800,1677000,8,860000,817000
+58,Lenteja 500g,FrescoCampo,Granos,0.50,Enero,Diana V.,Occidente,260,3200,832000,9,520000,312000
+59,Lenteja 500g,FrescoCampo,Granos,0.50,Febrero,Diana V.,Occidente,295,3200,944000,12,590000,354000
+60,Lenteja 500g,FrescoCampo,Granos,0.50,Marzo,Diana V.,Occidente,278,3200,889600,10,556000,333600
+61,Jabón de Baño x3,CasaFeliz,Aseo,0.36,Enero,Miguel S.,Norte,410,8200,3362000,15,1640000,1722000
+62,Jabón de Baño x3,CasaFeliz,Aseo,0.36,Febrero,Miguel S.,Norte,455,8200,3731000,18,1820000,1911000
+63,Jabón de Baño x3,CasaFeliz,Aseo,0.36,Marzo,Miguel S.,Norte,430,8200,3526000,14,1720000,1806000
+64,Desodorante 150ml,CasaFeliz,Cuidado Personal,0.15,Enero,Sofia L.,Sur,320,9800,3136000,11,1280000,1856000
+65,Desodorante 150ml,CasaFeliz,Cuidado Personal,0.15,Febrero,Sofia L.,Sur,355,9800,3479000,13,1420000,2059000
+66,Desodorante 150ml,CasaFeliz,Cuidado Personal,0.15,Marzo,Sofia L.,Sur,338,9800,3312400,10,1352000,1960400
+67,Pasta de Dientes,CasaFeliz,Cuidado Personal,0.18,Enero,Ricardo B.,Oriente,280,7500,2100000,9,840000,1260000
+68,Pasta de Dientes,CasaFeliz,Cuidado Personal,0.18,Febrero,Ricardo B.,Oriente,310,7500,2325000,11,930000,1395000
+69,Pasta de Dientes,CasaFeliz,Cuidado Personal,0.18,Marzo,Ricardo B.,Oriente,295,7500,2212500,8,885000,1327500
+70,Maíz Pira 200g,FrescoCampo,Granos,0.20,Enero,Valentina C.,Occidente,190,4200,798000,7,380000,418000
+71,Maíz Pira 200g,FrescoCampo,Granos,0.20,Febrero,Valentina C.,Occidente,215,4200,903000,9,430000,473000
+72,Maíz Pira 200g,FrescoCampo,Granos,0.20,Marzo,Valentina C.,Occidente,202,4200,848400,8,404000,444400
