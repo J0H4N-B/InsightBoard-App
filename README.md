@@ -1,4 +1,4 @@
-# 📊 Dashboard de Análisis de Producto
+# 📊 InsightBoard - Dashboard de Análisis de Producto
 
 Dashboard interactivo que permite subir cualquier CSV y explorar sus datos
 a través de 4 tipos de gráficos configurables: barras, donut, líneas y dispersión.
